@@ -16,16 +16,16 @@ The overall CTF was good and had a variety of challenges. But as compared to the
 ## The Team Members
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 100px; margin: 10px; text-align: center; border-radius: 8px;">
+    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 130px; margin: 10px; text-align: center; border-radius: 8px;">
         @phoenixx
     </div>
-    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 100px; margin: 10px; text-align: center; border-radius: 8px;">
+    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 130px; margin: 10px; text-align: center; border-radius: 8px;">
         @javaboi..
     </div>
-    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 100px; margin: 10px; text-align: center; border-radius: 8px;">
+    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 130px; margin: 10px; text-align: center; border-radius: 8px;">
         @shad0w
     </div>
-    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 100px; margin: 10px; text-align: center; border-radius: 8px;">
+    <div style="border: 1px solid #ccc; padding: 5px; width: 100%; max-width: 130px; margin: 10px; text-align: center; border-radius: 8px;">
         @frozenRDX
     </div>
 </div>

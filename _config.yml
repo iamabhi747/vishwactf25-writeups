@@ -23,4 +23,3 @@ footer_content: "Copyright &copy; 2025 Deathwing. Distributed by an <a href=\"ht
 exclude:
   - LICENSE
   - README.md
-  - assets/
