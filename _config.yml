@@ -1,0 +1,26 @@
+title: "VishwaCTF 25 Writeups"
+description: CTF Writeups @deathwing
+baseurl: "/vishwactf25-writeups"
+url: "https://iamabhi747.github.io/vishwactf25-writeups"
+
+remote_theme: just-the-docs/just-the-docs
+permalink: pretty
+
+favicon_ico: "/assets/vishwactf-logo.png"
+
+color_scheme: light
+nav_enabled: true
+heading_anchors: true
+search_enabled: false
+enable_copy_code_button: true
+
+aux_links:
+  "Deathing on CTFTime":
+    - "//ctftime.org/team/306776"
+
+footer_content: "Copyright &copy; 2025 Deathwing. Distributed by an <a href=\"https://github.com/iamabhi747/vishwactf25-writeups/tree/main/LICENSE\">MIT license</a>."
+
+exclude:
+  - LICENSE
+  - README.md
+  - assets/
