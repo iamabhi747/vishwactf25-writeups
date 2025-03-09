@@ -32,11 +32,11 @@ The overall CTF was good and had a variety of challenges. But as compared to the
 
 ## Writeups (23/27)
 
-#### [Cryptography](./cryptography)
-#### [Difital Forensics](./forensics)
-#### [Miscellaneous](./misc)
-#### [OSINT](./osint)
-#### [Reverse Engineering](./re)
-#### [Steganography](./stego)
-#### [Web Exploitation](./web)
+#### [Cryptography](./Cryptography/crypto/)
+#### [Difital Forensics](./Digital%20Forensics/forensics/)
+#### [Miscellaneous](./Miscellaneous/misc/)
+#### [OSINT](./OSINT/osint/)
+#### [Reverse Engineering](./Reverse%20Engineering/re/)
+#### [Steganography](./Steganography/stego/)
+#### [Web Exploitation](./Web%20Exploitation/web/)
 
