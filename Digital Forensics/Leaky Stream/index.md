@@ -4,7 +4,7 @@ parent: "Digital Forensics"
 ---
 
 # Leaky Stream 
-`VishwaCTF{this_is_first_part_this_second_part}`
+> VishwaCTF{this_is_first_part_this_second_part}
 
 The challenge had a pcapng file. Just running the `findstr "Vishwa" chitty-chat.pcapng` command on it revealed the first part of the flag which was `VishwaCTF{this_is_first_part` .
 
